@@ -1,3 +1,4 @@
 # Jack-Demo
 This is my first Git Repository
-AUthor- Pranjal Singh
+<br>
+Author- Pranjal Singh
